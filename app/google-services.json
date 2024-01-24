@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478295747657",
+    "project_id": "shoppingnttu",
+    "storage_bucket": "shoppingnttu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478295747657:android:a9f100fd9e254ef202e398",
+        "android_client_info": {
+          "package_name": "com.example.shoppingnttu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6hF2UyVDmxflWVI3ptmtAHD6GH-E5rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
